@@ -18,4 +18,4 @@ Signal Processing and Visualization:
 10. Click Accept All at the ribbon, and see the display after checking the checkbox of flow_lpm, with 1/60 the amplitude of flow_lph.
 11. Uncheck all signals, then check only flow_lpm and level.
 12. Go to Display Section and click Spectrum to view Power Spectrum.
-13. Go to Spectrum tab and convert Frequency scale to logarithm from linear.
+13. Go to Spectrum tab and convert Frequency scale to logarithm from linear. How the App looks at this stage is provided in the screenshot present in this folder.
