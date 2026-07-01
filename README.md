@@ -4,7 +4,6 @@ Initial Data+App+Folder Preparation:
 1. Get .csv file. Here, Column 1 containing time stamps of data, Column 2 containing level of tank in cm, Column 3 containing Flow Rates in lph.
 2. Observe time stamps have sampling time of 1 sec. Will use this fact later.
 3. Use script to call function readtable and store the columns in variables level and flow.\
-   
 Signal Processing and Visualization:
 1. Open MATLAB Signal Analyser App and drag the variables 'level' and 'flow' from workspace to "Filter Signals" tab.
 2. Select both the signals (ctrl+click), right-click and choose 'Time Values'.
