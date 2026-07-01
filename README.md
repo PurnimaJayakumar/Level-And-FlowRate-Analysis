@@ -20,3 +20,4 @@ Signal Processing and Visualization:
 11. Uncheck all signals, then check only flow_lpm and level.
 12. Go to Display Section and click Spectrum to view Power Spectrum.
 13. Go to Spectrum tab and convert Frequency scale to logarithm from linear. How the App looks at this stage is provided in the screenshot present in this folder.
+14. You can also filter a signal applying various frequency limits. Click on signal->Preprocess->Functions section->Observe various filters and apply as necessary.
